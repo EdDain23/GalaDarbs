@@ -1,0 +1,52 @@
+body{
+    background-color: #363945;
+}
+.container{
+    margin-top: 10%;
+    background-color: white;   
+}
+.pirma{
+    background-color: #F0EAD6;
+}
+.otra{
+    background-color: #9F9C99;
+}
+.tresa{
+    background-color: #E6AF91;
+}
+.ceturt{
+    background-color: #9A8B4F;
+}
+.augsa{
+    padding-top: 100px;
+}
+
+[class*="col-"] {
+    padding: 1rem;
+ 
+}
+.ED{
+    width: 400px;
+    border-radius: 17px;
+}
+.rezg{
+    width: 230px !important;
+    height: 180px;
+    object-fit: cover !important;
+    border-radius: 10px;
+}
+.viss{
+    background-color: #B89B72;
+    padding-bottom: 100px;
+    border-radius: 23px;
+}
+.apala{
+    border-radius: 23px;
+    background-color: #B89B72;
+}
+.hob{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
